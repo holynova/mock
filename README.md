@@ -7,3 +7,4 @@
 ```
 'GET /list': [1, 2, 3]
 ```
+- node app.js
